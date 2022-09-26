@@ -1,0 +1,9 @@
+.Dictionary {
+  color: white;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.Dictionary .form-submit {
+  padding: 2px 15px;
+}

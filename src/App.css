@@ -2,8 +2,20 @@
   margin: 30px auto;
 }
 
-.App-logo {
-  max-width: 150px;
-  display: block;
-  margin: 0 auto;
+.App-header .App-logo {
+  max-width: 50px;
+  display: inline-block;
+  margin-top: -30px;
+  margin-right: 5px;
+}
+.App-header .logoText {
+  display: inline-block;
+  color: aqua;
+}
+.App-footer {
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+}
+.App-footer a {
+  color: aqua;
 }
