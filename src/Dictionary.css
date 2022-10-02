@@ -1,6 +1,12 @@
+body {
+  margin: 50px auto;
+  padding: 20px;
+}
+
 .Dictionary {
   color: white;
   margin: 0 auto;
+  padding: 10px;
 }
 
 .Dictionary .form-submit {
@@ -11,7 +17,10 @@
   text-transform: capitalize;
 }
 
-
 .synonym {
+  display: inline;
+}
+
+.phonetics {
   display: inline;
 }
