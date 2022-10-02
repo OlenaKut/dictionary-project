@@ -24,3 +24,8 @@ body {
 .phonetics {
   display: inline;
 }
+.fa-volume-high {
+  font-size: 24px;
+  color: aqua;
+  padding: 0 10px;
+}
