@@ -9,23 +9,19 @@ body {
   padding: 10px;
 }
 
+.Dictionary section {
+  background: #282c37;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.Dictionary .form-input {
+  width: 50%;
+  margin: 10px 5px 5px 0;
+}
 .Dictionary .form-submit {
-  padding: 2px 15px;
+  padding: 4px 20px;
 }
-
-.word {
-  text-transform: capitalize;
-}
-
-.synonym {
-  display: inline;
-}
-
-.phonetics {
-  display: inline;
-}
-.fa-volume-high {
-  font-size: 24px;
-  color: aqua;
-  padding: 0 10px;
+.Dictionary .keyWord {
+  font-size: 12px;
 }

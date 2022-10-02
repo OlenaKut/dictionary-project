@@ -10,14 +10,14 @@
 }
 .App-header .logoText {
   display: inline-block;
-  color: aqua;
+  color: rgb(96, 195, 231);
 }
 .App-footer {
-  color: rgb(255, 255, 255);
+  color: rgb(220, 217, 217);
   font-size: 12px;
   margin: 10px;
   padding: 10px;
 }
 .App-footer a {
-  color: aqua;
+  color: rgb(96, 195, 231);
 }

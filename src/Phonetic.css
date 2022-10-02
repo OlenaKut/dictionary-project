@@ -1,0 +1,14 @@
+.Phonetic .phonetics {
+  display: inline;
+  color: rgb(193, 192, 192);
+}
+.Phonetic .fa-volume-high {
+  font-size: 24px;
+  color: rgb(96, 195, 231);
+  padding: 0 10px;
+  transition: all 150ms ease-in-out;
+}
+
+.Phonetic .fa-volume-high:hover {
+  color: rgb(232, 231, 231);
+}

@@ -1,0 +1,7 @@
+.Result .word {
+  text-transform: capitalize;
+}
+
+.Result .synonym {
+  display: inline;
+}

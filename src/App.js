@@ -4,15 +4,15 @@ import "./App.css";
 
 export default function App() {
   return (
-    <div className="App shadow">
+    <div className="App">
       <div className="container">
         <header className="App-header">
           <img src={logo} className="App-logo img-fluid" alt="Logo" />
-          <h5 className="logoText">OlenaKut</h5>
+          <h5 className="logoText">OKut</h5>
         </header>
 
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="Happiness" />
         </main>
         <footer className="App-footer text-end">
           Coded by{" "}
