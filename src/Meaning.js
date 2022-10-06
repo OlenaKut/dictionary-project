@@ -12,7 +12,7 @@ export default function Meaning(props) {
         return (
           <div key={index}>
             <div className="definition">
-              <span className="opacity-75">Definition:</span>
+              <span className="opacity-75">Definition: </span>
               {definition.definition}
             </div>
             <div className="example">

@@ -1,0 +1,7 @@
+{
+  "workbench.externalUriOpeners": {
+    "https": "default"
+  },
+  "js/ts.implicitProjectConfig.target": "ES2022",
+  "gitlens.defaultDateShortFormat": ""
+}
