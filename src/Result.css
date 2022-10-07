@@ -1,5 +1,8 @@
+
 .Result .word {
   text-transform: capitalize;
+  font-size: 38px;
+
 }
 
 .Result .synonym {

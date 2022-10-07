@@ -1,3 +1,7 @@
+.Meaning {
+  font-size: 18px;
+}
 .Meaning .example {
-  font-size: 14px;
+  font-size: 16px;
+  color: rgb(169, 239, 248);
 }

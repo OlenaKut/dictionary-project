@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import axios from "axios";
 import Result from "./Result.js";
-import "./Dictionary.css";
 import Photos from "./Photos.js";
+import "./Dictionary.css";
 
 export default function Dictionary(props) {
   const [keyword, setKeyword] = useState(props.defaultKeyword);
@@ -58,8 +58,8 @@ export default function Dictionary(props) {
             <input
               type="serch"
               autoFocus={true}
-              placeholder={props.defaultKeyword}
               onChange={handleKeywordChange}
+              defaultValue={props.defaultKeyword}
               className="form-input rounded p-1"
             />
             <input

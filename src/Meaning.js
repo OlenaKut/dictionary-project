@@ -6,7 +6,7 @@ export default function Meaning(props) {
   return (
     <div className="Meaning">
       <h3 className="partOfSpeech text-capitalize rounded text-info">
-        <em>{props.meaning.partOfSpeech}</em>
+        {props.meaning.partOfSpeech}
       </h3>
       {props.meaning.definitions.map(function (definition, index) {
         return (

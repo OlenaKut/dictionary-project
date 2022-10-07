@@ -8,7 +8,7 @@ export default function App() {
       <div className="container">
         <header className="App-header">
           <img src={logo} className="App-logo img-fluid" alt="Logo" />
-          <h5 className="logoText">OKut</h5>
+          <h5 className="logoText">OlenaKut</h5>
         </header>
 
         <main>
